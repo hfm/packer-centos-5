@@ -1,4 +1,4 @@
-# packer-centos-6
+# packer-centos-5
 ```sh
-vagrant up hfm4/centos6
+vagrant up hfm4/centos5
 ```
